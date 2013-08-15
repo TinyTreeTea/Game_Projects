@@ -1,0 +1,10 @@
+C:\Users\natangl\AppData\Local\Temporary Projects\Checkers3\bin\Debug\Checkers3.exe
+C:\Users\natangl\AppData\Local\Temporary Projects\Checkers3\bin\Debug\Checkers3.pdb
+C:\Users\natangl\AppData\Local\Temporary Projects\Checkers3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\natangl\AppData\Local\Temporary Projects\Checkers3\obj\x86\Debug\Checkers3.exe
+C:\Users\natangl\AppData\Local\Temporary Projects\Checkers3\obj\x86\Debug\Checkers3.pdb
+C:\Users\natangl\documents\visual studio 2010\Projects\Checkers3\Checkers3\bin\Debug\Checkers3.exe
+C:\Users\natangl\documents\visual studio 2010\Projects\Checkers3\Checkers3\bin\Debug\Checkers3.pdb
+C:\Users\natangl\documents\visual studio 2010\Projects\Checkers3\Checkers3\obj\x86\Debug\Checkers3.exe
+C:\Users\natangl\documents\visual studio 2010\Projects\Checkers3\Checkers3\obj\x86\Debug\Checkers3.pdb
+C:\Users\natangl\documents\visual studio 2010\Projects\Checkers3\Checkers3\bin\Debug\CheckersOptions.sdf
