@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1345221232 source:c:\codeblocks\projects\tetris\main.cpp
+	"Board.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+
+1345221232 source:c:\codeblocks\projects\tetris\board.cpp
+	"Board.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1345221232 c:\codeblocks\projects\tetris\board.h
+	<iostream>
+	<stdlib.h>
+	"SDL/SDL.h"
+	<time.h>
+
+1344970980 c:\codeblocks\projects\tetris\main.cpp
+	<iostream>
+	"SDL/SDL.h"
+	"Board.h"
+

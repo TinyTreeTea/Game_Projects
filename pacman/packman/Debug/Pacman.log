@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(142): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(193): warning C4305: '=' : truncation from 'int' to 'char'
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(193): warning C4309: '=' : truncation of constant value
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(194): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(197): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(202): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(203): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(206): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\natangl\documents\visual studio 2010\projects\pacman\pacman\main.cpp(207): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\natangl\documents\visual studio 2010\Projects\Pacman\Debug\Pacman.exe not found or not built by the last incremental link; performing full link
+  Pacman.vcxproj -> C:\Users\natangl\documents\visual studio 2010\Projects\Pacman\Debug\Pacman.exe
